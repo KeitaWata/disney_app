@@ -15,7 +15,7 @@ https://muds.gdl.jp/~s2022054/disney_nav.php  \
 ## 製作者：
 ・https://github.com/Leo-Urata \
 ・https://github.com/KeitaWata \
-・
+・https://github.com/Shunshundisney
 
 
 元の作業場所へはこちら\
